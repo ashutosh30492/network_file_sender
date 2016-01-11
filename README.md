@@ -31,4 +31,4 @@ Run the application
 
 	node index.js 
 	
-The file which needs to be sent is file.zip. Will add configurable filenames and support for multiple files in the future.
+The file which needs to be sent is file.zip. Will add configurable filenames and support for multiple files in the future. To download the file, the client needs to go to http://SERVER_IP_ADDRESS:1234/ on it's web browser.
