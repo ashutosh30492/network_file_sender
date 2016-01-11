@@ -30,3 +30,5 @@ Install the dependencies:
 Run the application
 
 	node index.js 
+	
+The file which needs to be sent is file.zip. Will add configurable filenames and support for multiple files in the future.
