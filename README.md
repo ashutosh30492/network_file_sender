@@ -1,6 +1,6 @@
-# Network File Sender
+# Network File Sender #
 
-##Purpose
+##Purpose##
 
 This is a simple file sharing script which can send a file (any format) over a LAN network. Useful in instances where you need to send executable files, or executable zipped files which cannot be e-mailed and in absence of airdrop and/or bluetooth, this script can be used to send the file. The client only needs a web browser to download the file to the default downloads folder of the client.
 
@@ -15,7 +15,7 @@ Requires nodejs
 ```
 
 
-##Installation
+##Installation##
 
 Clone the github repo:
 
@@ -26,7 +26,7 @@ Install the dependencies:
 
 	npm install
 	
-##Running
+##Running##
 Run the application
 
 	node index.js 
